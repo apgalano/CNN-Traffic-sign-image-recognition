@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 12 20:16:06 2020
-
-@author: apoka
-"""
-import os, sys
+import os
 from PIL import Image
 import numpy as np
 import pandas as pd
