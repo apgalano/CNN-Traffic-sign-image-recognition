@@ -11,7 +11,7 @@ A Convolutional Neural Network solution for identifying traffic signs in images.
 * `test_model(path)` tries the model stored in `path` on the test data (stored in `Traffic_signs_test.npz`) and outputs the recognised signs in `Results.csv`.
 
 3. Inspect the results. Enabling visualisation in `train_model()` yields results like the following:
-![Screenshot](Training_accuracy.jpg)  ![Screenshot](Training_accuracy.jpg)
+![Screenshot](Training_accuracy.jpg)  ![Screenshot](Training_loss.jpg)
 
 File `signnames.csv` includes the correspondence of numerical class IDs to actual sign descriptions and is used to generate `Results.csv`.
 
